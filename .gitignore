@@ -1,0 +1,44 @@
+# ========================
+# Python - Backend
+# ========================
+Backend/virenv/
+Backend/Backend/src/__pycache__/
+Backend/Backend/src/*.py[cod]
+Backend/Backend/src/.env
+Backend/Backend/src/.mypy_cache/
+Backend/Backend/src/.pytest_cache/
+Backend/Backend/src/.ruff_cache/
+Backend/Backend/src/.vscode/
+
+# If FastAPI code is inside src/
+Backend/src/__pycache__/
+Backend/src/*.py[cod]
+
+# ========================
+# Node/Next.js - Frontend
+# ========================
+Frontend/node_modules/
+Frontend/.next/
+Frontend/.env.local
+Frontend/.env
+Frontend/.turbo/
+Frontend/.cache/
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+
+# ========================
+# Global ignores
+# ========================
+*.log
+*.sqlite3
+.env
+.venv
+venv/
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/

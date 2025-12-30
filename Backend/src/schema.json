@@ -1,0 +1,17 @@
+{
+  "orders": {
+    "columns": {
+      "order_id": "INT",
+      "customer_id": "INT",
+      "amount": "FLOAT"
+    },
+    "primary_key": "order_id"
+  },
+  "customers": {
+    "columns": {
+      "customer_id": "INT",
+      "name": "TEXT"
+    },
+    "primary_key": "customer_id"
+  }
+}
