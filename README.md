@@ -82,10 +82,3 @@ git push
 - Model switch per session
 
 ---
-
-## 👨‍💻 Author
-
-**Koppolu Buddha Bhavan**  
-📎 [GitHub](https://github.com/koppolu-buddha-bhavan)
-
----
